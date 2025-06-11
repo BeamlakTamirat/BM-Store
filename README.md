@@ -2,8 +2,7 @@
 
 👇Full Video
 
-  [![Watch on YouTube](https://img.youtube.com/vi/mpQlCauXjz0/0.jpg)](https://youtube.com/shorts/mpQlCauXjz0?feature=share)
-
+  <video src="BM_store.mp4" controls width="500"></video>
 
 A modern Flutter e-commerce application that integrates with the Fake Store API to provide a complete shopping experience with product listings, cart functionality, search/filter capabilities, and user authentication.
 
